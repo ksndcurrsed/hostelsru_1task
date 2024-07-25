@@ -1,6 +1,6 @@
 <img src="./images/logo.png" alt="Logo of the project" align="right">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Telegram+bot+for+Financial+University+KF)](https://git.io/typing-svg) &middot; [![Telegram](https://img.shields.io/badge/Telegram%blue?logo=telegram&logoColor=white)](https://t.me/finashka40bot) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Telegram+bot+for+Financial+University+KF)](https://git.io/typing-svg) &middot; [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/finashka40bot) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 > Additional information or tag line
 
 A brief description of your project, what it is used for.
