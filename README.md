@@ -30,13 +30,13 @@ selenium==4.19.0
 
 ### Main developers:
 
- <img src='https://avatars.githubusercontent.com/u/122749239?v=4' alt='Avatar' width='100' height='100'> - **Artem Plohoy**  
+ <img src='https://avatars.githubusercontent.com/u/122749239?v=4' alt='Avatar' width='100' height='100'>   - **Artem Plohoy**  
   _Role: Main developer_  
   [GitHub](https://github.com/ksndcurrsed) | [Telegram](t.me/h47zx)
 
 
-<img src='https://avatars.githubusercontent.com/u/167213172?v=4' alt='Avatar' width='100' height='100'> - **Andrey Ilyin**  
+<img src='https://avatars.githubusercontent.com/u/167213172?v=4' alt='Avatar' width='100' height='100'>   - **Andrey Ilyin**  
   _Role: Main developer_   
   [GitHub](https://github.com/psina32) | [Telegram](t.me/andr5532)
 
-_If you found any bugs, or have ideas to develope, we wait you in [![Telegram](t.me/h47zx)]_
+_If you found any bugs, or have ideas to develope, we wait you in [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/h47zx)
