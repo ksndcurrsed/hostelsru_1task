@@ -32,8 +32,8 @@ selenium==4.19.0
 
  <img src='https://avatars.githubusercontent.com/u/122749239?v=4' alt='Avatar' width='100' height='100'> - **Artem Plohoy**  
   _Role: Main developer_  
-  
   [GitHub](https://github.com/ksndcurrsed) | [Telegram](t.me/h47zx)
+
 
 <img src='https://avatars.githubusercontent.com/u/167213172?v=4' alt='Avatar' width='100' height='100'> - **Andrey Ilyin**  
   _Role: Main developer_   
