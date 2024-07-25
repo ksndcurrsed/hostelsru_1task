@@ -39,4 +39,4 @@ selenium==4.19.0
   _Role: Main developer_   
   [GitHub](https://github.com/psina32) | [Telegram](t.me/andr5532)
 
-_If you found any bugs, or have ideas to develope, we wait you in [Telegram](t.me/h47zx)_
+_If you found any bugs, or have ideas to develope, we wait you in [![Telegram](t.me/h47zx)]_
